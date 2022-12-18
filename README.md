@@ -1,5 +1,5 @@
 # WhatsApp Chat Bot © Alexander-Didenko-71
-WhatsApp Web Automation using Python  :snake:
+WhatsApp Web Automation using Python
 
 ***** FOLLOW THE INSTRUCTIONS *****
 
@@ -45,4 +45,3 @@ WhatsApp Web Automation using Python  :snake:
 
 ● I have added a few basic questions, keep on adding more. There's a lots to improve here, keep thinking and suggest edits. Happy developing and keep codes open source and help others to learn. 
 
-******MADE WITH :blue_heart: BY TRIDIB SAMANTA******
