@@ -1,4 +1,4 @@
-# WhatsApp ChatBot using Python © Alexander-Didenko-71
+# WhatsApp ChatBot using Python © 71
 WhatsApp Web Automation using Python
 
 ***** FOLLOW THE INSTRUCTIONS *****
